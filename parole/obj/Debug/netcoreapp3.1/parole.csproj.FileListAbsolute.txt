@@ -1,0 +1,14 @@
+C:\Users\ibm\Documents\parole\parole\bin\Debug\netcoreapp3.1\parole.exe
+C:\Users\ibm\Documents\parole\parole\bin\Debug\netcoreapp3.1\parole.deps.json
+C:\Users\ibm\Documents\parole\parole\bin\Debug\netcoreapp3.1\parole.runtimeconfig.json
+C:\Users\ibm\Documents\parole\parole\bin\Debug\netcoreapp3.1\parole.runtimeconfig.dev.json
+C:\Users\ibm\Documents\parole\parole\bin\Debug\netcoreapp3.1\parole.dll
+C:\Users\ibm\Documents\parole\parole\bin\Debug\netcoreapp3.1\parole.pdb
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.csproj.AssemblyReference.cache
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.AssemblyInfoInputs.cache
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.AssemblyInfo.cs
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.csproj.CoreCompileInputs.cache
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.dll
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.pdb
+C:\Users\ibm\Documents\parole\parole\obj\Debug\netcoreapp3.1\parole.genruntimeconfig.cache
